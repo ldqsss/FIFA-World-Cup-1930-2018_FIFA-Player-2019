@@ -41,7 +41,7 @@ Teacher： Mr. Kano-Joke
 
 ![image-20220610125521900](README/images/image-20220610125521900.png)
 
-# 个人公众号
+# 个人公众号/ Personal Official Account
 
 ![image-20220610125953114](README/images/image-20220610125953114.png)
 
