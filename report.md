@@ -1,10 +1,10 @@
 
 
-Contents:
+# 目录/Contents
 
 [toc]
 
-# Project Info
+# 项目信息/Project Info
 
 **Individual** ： Ading
 
@@ -13,6 +13,8 @@ Contents:
 **Tableau Link** :  [https://public.tableau.com/views/FIFAPlayers2019andFIFAWorldCup--Ading/FIFA-WorldCup1930-2018FIFAPlayer2019?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/FIFAPlayers2019andFIFAWorldCup--Ading/FIFA-WorldCup1930-2018FIFAPlayer2019?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
 **Python Code**：`big_data_viz`
+
+**Github** ：  [https://github.com/ldqsss/FIFA-World-Cup-1930-2018_FIFA-Player-2019](https://github.com/ldqsss/FIFA-World-Cup-1930-2018_FIFA-Player-2019)
 
   
 
